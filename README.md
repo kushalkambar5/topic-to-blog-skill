@@ -17,6 +17,20 @@ Writing modern long-form content requires more than basic LLM text generation. T
 
 ---
 
+## 📦 Quick Installation
+
+Install this skill into your project or global AI agent environment (Claude Code, Cursor, Windsurf, Antigravity, OpenCode, Codex, etc.) with a single command:
+
+```bash
+# Add to current project
+npx skills add kushalkambar5/topic-to-blog-skill
+
+# Or install globally across all agents
+npx skills add kushalkambar5/topic-to-blog-skill -g
+```
+
+---
+
 ## 🚀 The 5-Phase Production Pipeline
 
 ```mermaid
