@@ -1,0 +1,1 @@
+This is the skill for writing blogs from topics. It uses Deep Research, SEO/GEO & CORE-EEAT 80-Item Benchmark, Humanizer & AI-Slop Anti-Patterns, Pre-Publish Quality Checklist and Archetype Blueprints to write high quality blogs.
